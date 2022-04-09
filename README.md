@@ -25,8 +25,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Image 1 of Application 
 ![image](https://user-images.githubusercontent.com/40706088/162591786-c18cc460-dcb0-420c-93f9-bdf2d8c4d272.png)
-   
-
 
 ## Image 2 of Application 
 ![image](https://user-images.githubusercontent.com/40706088/162591800-567dbec4-4268-4651-b4a5-583d45e42099.png)
